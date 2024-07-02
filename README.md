@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @shreyasshirwadkar I am a beginner to open source and i'm here to learn 
 - 👀 I’m interested in working in technology to help the world be a better place
-- 🌱 I’m currently learning Flutter 
+- 🌱 I’m currently learning Full Stack Development
 - 💞️ I’m looking to collaborate on any projects that can help me learn
 - 📫 How to reach me ... shreyas.shirwadkar@gmail.com
 
