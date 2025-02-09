@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @shreyasshirwadkar 
 - 👀 I’m interested in working in technology to help the world be a better place
-- 🌱 I’m currently learning Full Stack Development , I know flutter.
+- 🌱 I’m currently learning ML, I know flutter and web dev.
 - 💞️ I’m looking to collaborate on any projects that can help me learn
 - 📫 How to reach me ... shreyas.shirwadkar@gmail.com
 
