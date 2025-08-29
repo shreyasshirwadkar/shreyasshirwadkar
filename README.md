@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @shreyasshirwadkar 
 - 👀 I’m interested in working in technology to help the world be a better place
-- 🌱 I’m currently learning ML, I know flutter and web dev.
+- 🌱 ML, Frontend(Mobile and Web), Backend 
 - 💞️ I’m looking to collaborate on any projects that can help me learn
 - 📫 How to reach me ... shreyas.shirwadkar@gmail.com
 
@@ -32,3 +32,4 @@ You can click the Preview link to take a look at your changes.
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+
